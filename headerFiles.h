@@ -1,0 +1,25 @@
+#ifndef HEADERFILES_H
+#define HEADERFILES_H
+// 项目头文件管理基地
+#include <QTimer>
+#include <QFile>
+#include <QFileInfo>
+#include <QCloseEvent>
+#include <QPaintEvent>
+#include <QPainter>
+#include <QClipboard>
+#include <QProgressDialog>
+#include <QThread>
+#include <QShortcut>
+#include <QFileDialog>
+#include <QMessageBox>
+#include <QPushButton>
+#include <QCheckBox>
+#include <QDialog>
+#include <QMouseEvent>
+#include <QSettings>
+#include <QCryptographicHash>
+#include "./ui_notebook.h"
+#include "./ui_login.h"
+#include <QDebug>
+#endif // HEADERFILES_H
